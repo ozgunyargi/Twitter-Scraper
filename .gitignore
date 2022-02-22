@@ -1,0 +1,8 @@
+# created by virtualenv automatically
+__pycache__
+Data
+Lib
+Scripts
+pyvenv.cfg
+scraped_users.txt
+users_to_scrape.txt

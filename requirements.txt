@@ -1,0 +1,3 @@
+tweepy==4.5.0
+twarc
+tqdm
